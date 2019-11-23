@@ -1,0 +1,8 @@
+{
+  "domain": "tildes_balss",
+  "name": "Tildes Balss",
+  "documentation": "https://github.com/girtskokars/hass-tildes-balss",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@girtskokars"]
+}

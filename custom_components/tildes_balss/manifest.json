@@ -1,6 +1,7 @@
 {
   "domain": "tildes_balss",
   "name": "Tildes Balss",
+  "version": "1.0.0",
   "documentation": "https://github.com/girtskokars/hass-tildes-balss",
   "requirements": [],
   "dependencies": [],
